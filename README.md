@@ -5,11 +5,7 @@
 <img src="https://i.ibb.co.com/4npjRj3C/drferdiiskandar-MAIN.jpg" alt="dr. Ferdi Iskandar" width="150" />
 <br />
 <b>dr. Ferdi Iskandar</b><br />
-Lead Architect
-<br />
-<a href="https://ferdiiskandar.com">
-  <img src="https://img.shields.io/badge/FERDIISKANDAR.COM-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Official website" />
-</a>
+Founder & Augmented Architect
 <br />
 <img src="https://img.shields.io/badge/KEDIRI%20INDONESIA-22D3EE?style=flat-square" alt="Kediri Indonesia" />
 <img src="https://img.shields.io/badge/UTC%2B7-5B8CFF?style=flat-square" alt="UTC+7" />
@@ -17,13 +13,11 @@ Lead Architect
 </td>
 <td width="66%" valign="top">
 
-SENTRA / THE ORIGIN
+About Me :
 
 <a href="https://ferdiiskandar.com">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=33&duration=3400&pause=1500&color=EB5939&vCenter=true&width=710&height=44&lines=Technology+terbaik+adalah+yang+bekerja+dalam+diam." alt="Technology terbaik adalah yang bekerja dalam diam." />
 </a>
-
-<b>Operational signal:</b> Kediri, Indonesia · UTC+7 · clinical intelligence under active construction
 
 <a href="https://sentrahai.com/"><b>Sentra Artificial Intelligence</b></a><br />
 Twenty-two systems. One foundation. One governing boundary: <b>human authority</b>.
